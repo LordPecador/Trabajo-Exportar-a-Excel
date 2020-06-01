@@ -1,0 +1,28 @@
+C:\Users\CHRISTIAN\source\repos\PROG2_TAREA_Erwin_Perez\PROG2_TAREA_Erwin_Perez\bin\Debug\PROG2_TAREA_Erwin_Perez.exe.config
+C:\Users\CHRISTIAN\source\repos\PROG2_TAREA_Erwin_Perez\PROG2_TAREA_Erwin_Perez\bin\Debug\PROG2_TAREA_Erwin_Perez.exe
+C:\Users\CHRISTIAN\source\repos\PROG2_TAREA_Erwin_Perez\PROG2_TAREA_Erwin_Perez\bin\Debug\PROG2_TAREA_Erwin_Perez.pdb
+C:\Users\CHRISTIAN\source\repos\PROG2_TAREA_Erwin_Perez\PROG2_TAREA_Erwin_Perez\obj\Debug\PROG2_TAREA_Erwin_Perez.csprojAssemblyReference.cache
+C:\Users\CHRISTIAN\source\repos\PROG2_TAREA_Erwin_Perez\PROG2_TAREA_Erwin_Perez\obj\Debug\PROG2_TAREA_Erwin_Perez.Form1.resources
+C:\Users\CHRISTIAN\source\repos\PROG2_TAREA_Erwin_Perez\PROG2_TAREA_Erwin_Perez\obj\Debug\PROG2_TAREA_Erwin_Perez.Properties.Resources.resources
+C:\Users\CHRISTIAN\source\repos\PROG2_TAREA_Erwin_Perez\PROG2_TAREA_Erwin_Perez\obj\Debug\PROG2_TAREA_Erwin_Perez.csproj.GenerateResource.cache
+C:\Users\CHRISTIAN\source\repos\PROG2_TAREA_Erwin_Perez\PROG2_TAREA_Erwin_Perez\obj\Debug\PROG2_TAREA_Erwin_Perez.csproj.CoreCompileInputs.cache
+C:\Users\CHRISTIAN\source\repos\PROG2_TAREA_Erwin_Perez\PROG2_TAREA_Erwin_Perez\obj\Debug\PROG2_TAREA_Erwin_Perez.exe
+C:\Users\CHRISTIAN\source\repos\PROG2_TAREA_Erwin_Perez\PROG2_TAREA_Erwin_Perez\obj\Debug\PROG2_TAREA_Erwin_Perez.pdb
+C:\Users\CHRISTIAN\source\repos\PROG2_TAREA_Erwin_Perez - exel\PROG2_TAREA_Erwin_Perez\bin\Debug\PROG2_TAREA_Erwin_Perez.exe.config
+C:\Users\CHRISTIAN\source\repos\PROG2_TAREA_Erwin_Perez - exel\PROG2_TAREA_Erwin_Perez\bin\Debug\PROG2_TAREA_Erwin_Perez.exe
+C:\Users\CHRISTIAN\source\repos\PROG2_TAREA_Erwin_Perez - exel\PROG2_TAREA_Erwin_Perez\bin\Debug\PROG2_TAREA_Erwin_Perez.pdb
+C:\Users\CHRISTIAN\source\repos\PROG2_TAREA_Erwin_Perez - exel\PROG2_TAREA_Erwin_Perez\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\CHRISTIAN\source\repos\PROG2_TAREA_Erwin_Perez - exel\PROG2_TAREA_Erwin_Perez\bin\Debug\SpreadsheetLight.dll
+C:\Users\CHRISTIAN\source\repos\PROG2_TAREA_Erwin_Perez - exel\PROG2_TAREA_Erwin_Perez\bin\Debug\System.IO.Packaging.dll
+C:\Users\CHRISTIAN\source\repos\PROG2_TAREA_Erwin_Perez - exel\PROG2_TAREA_Erwin_Perez\bin\Debug\SpreadsheetLight.xml
+C:\Users\CHRISTIAN\source\repos\PROG2_TAREA_Erwin_Perez - exel\PROG2_TAREA_Erwin_Perez\bin\Debug\System.IO.Packaging.xml
+C:\Users\CHRISTIAN\source\repos\PROG2_TAREA_Erwin_Perez - exel\PROG2_TAREA_Erwin_Perez\obj\Debug\PROG2_TAREA_Erwin_Perez.csprojAssemblyReference.cache
+C:\Users\CHRISTIAN\source\repos\PROG2_TAREA_Erwin_Perez - exel\PROG2_TAREA_Erwin_Perez\obj\Debug\PROG2_TAREA_Erwin_Perez.Form1.resources
+C:\Users\CHRISTIAN\source\repos\PROG2_TAREA_Erwin_Perez - exel\PROG2_TAREA_Erwin_Perez\obj\Debug\PROG2_TAREA_Erwin_Perez.Properties.Resources.resources
+C:\Users\CHRISTIAN\source\repos\PROG2_TAREA_Erwin_Perez - exel\PROG2_TAREA_Erwin_Perez\obj\Debug\PROG2_TAREA_Erwin_Perez.csproj.GenerateResource.cache
+C:\Users\CHRISTIAN\source\repos\PROG2_TAREA_Erwin_Perez - exel\PROG2_TAREA_Erwin_Perez\obj\Debug\PROG2_TAREA_Erwin_Perez.csproj.CoreCompileInputs.cache
+C:\Users\CHRISTIAN\source\repos\PROG2_TAREA_Erwin_Perez - exel\PROG2_TAREA_Erwin_Perez\obj\Debug\PROG2_TAREA_Erwin_Perez.csproj.CopyComplete
+C:\Users\CHRISTIAN\source\repos\PROG2_TAREA_Erwin_Perez - exel\PROG2_TAREA_Erwin_Perez\obj\Debug\PROG2_TAREA_Erwin_Perez.exe
+C:\Users\CHRISTIAN\source\repos\PROG2_TAREA_Erwin_Perez - exel\PROG2_TAREA_Erwin_Perez\obj\Debug\PROG2_TAREA_Erwin_Perez.pdb
+C:\Users\CHRISTIAN\source\repos\PROG2_TAREA_Erwin_Perez - exel\PROG2_TAREA_Erwin_Perez\bin\Debug\EPPlus.dll
+C:\Users\CHRISTIAN\source\repos\PROG2_TAREA_Erwin_Perez - exel\PROG2_TAREA_Erwin_Perez\bin\Debug\EPPlus.xml
